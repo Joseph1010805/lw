@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import styled, { keyframes } from "styled-components"
 
 
